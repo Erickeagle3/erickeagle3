@@ -15,7 +15,7 @@
 <a href="https://t.me/NBD_ERICK">
    <img align="left"| Telegram" width="21px" src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" />
 </a>
-<a href="https://erickbuilds.blogspot.com/">
+<a href="https://www.erickbuilds.tech//">
    <img align="left"| Blogger" width="21px" src="https://edent.github.io/SuperTinyIcons/images/svg/blogger.svg" />
 </a>
 <a href="https://open.spotify.com/user/49ho7nzfyzxq0cllqamaq6e44?si=OnQxTIoPRS6ZRhXWwqD7cQ&utm_source=copy-link/">
